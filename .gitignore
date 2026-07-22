@@ -1,5 +1,6 @@
 # AGENTS.md rule 8.7 (do not commit AGENTS.md)
 AGENTS.md
+spec/
 
 # Compiled class file
 *.class
